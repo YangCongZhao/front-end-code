@@ -1,0 +1,59 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		}
+	    ,{
+            "path" : "pages/vedeo/vedeo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "视频",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/my",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"tabBar": {
+		"color": "black",
+		"selectedColor": "red",
+		"borderStyle": "grey",
+		"position": "bottom",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "热播",
+				"iconPath": "static/huo.svg"
+				
+			},
+			{
+				"pagePath": "pages/vedeo/vedeo",
+				"text": "视频",
+				"iconPath": "static/shipin.svg"
+			},
+			{
+				"pagePath":"pages/my/my",
+				"text": "个人",
+				"iconPath": "static/gerentouxiang.svg"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
