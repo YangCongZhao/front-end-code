@@ -28,24 +28,27 @@
 	"tabBar": {
 		"color": "black",
 		"selectedColor": "red",
-		"borderStyle": "grey",
+		"borderStyle": "black",
 		"position": "bottom",
 		"list": [
 			{
 				"pagePath": "pages/index/index",
 				"text": "热播",
-				"iconPath": "static/huo.svg"
+				"iconPath": "static/huo.png",
+				"selectedIconPath": "static/huoSelect.png"
 				
 			},
 			{
 				"pagePath": "pages/vedeo/vedeo",
 				"text": "视频",
-				"iconPath": "static/shipin.svg"
+				"iconPath": "static/shipin.png",
+				"selectedIconPath": "static/shipinSelect.png"
 			},
 			{
 				"pagePath":"pages/my/my",
 				"text": "个人",
-				"iconPath": "static/gerentouxiang.svg"
+				"iconPath": "static/gerentouxiang.png",
+				"selectedIconPath": "static/gerentouxiangSelect.png"
 			}
 		]
 	},

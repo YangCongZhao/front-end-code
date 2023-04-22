@@ -37,7 +37,7 @@ const mock = ref([
     {name:'男士/风尚',id:'男士/风尚'},
     {name:'造型/美妆',id:'造型/美妆'},
 ])
-
+mock.value.unshift({name:'全部',id:'全部'})
 
 
 </script>

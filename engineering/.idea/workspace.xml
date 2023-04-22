@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6cd3e784-9c90-4b83-abb4-3d308a4e8cee" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../Vue/imooc-front/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vue/imooc-front/postcss.config.cjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vue/imooc-front/src/assets/vue.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vue/imooc-front/src/layout/components/mobile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Vue/imooc-front/src/layout/components/mobile.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vue/imooc-front/src/layout/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Vue/imooc-front/src/layout/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vue/imooc-front/tailwind.config.cjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/engineering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/engineering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +26,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681971186858</updated>
-      <workItem from="1681971188578" duration="218000" />
+      <workItem from="1681971188578" duration="3697000" />
     </task>
     <servers />
   </component>
