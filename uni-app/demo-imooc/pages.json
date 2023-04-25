@@ -20,6 +20,18 @@
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "个人",
+                "enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ffd655"
+				
+            }
+            
+        }
+        ,{
+            "path" : "pages/sinUp/sinUp",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
                 "enablePullDownRefresh": false
             }
             
