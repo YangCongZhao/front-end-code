@@ -1,0 +1,40 @@
+{
+
+  "name": "basets",
+
+  "version": "1.0.0",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "dev": "rollup -c -w"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "description": "",
+
+  "dependencies": {
+
+    "@rollup/plugin-node-resolve": "^15.2.3",
+
+    "rollup": "^4.12.0",
+
+    "rollup-plugin-serve": "^1.1.1",
+
+    "rollup-plugin-server": "^0.7.0",
+
+    "rollup-plugin-typescript2": "^0.36.0",
+
+    "typescript": "^5.3.3"
+
+  }
+
+}
+
